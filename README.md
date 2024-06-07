@@ -8,4 +8,4 @@ Este repositório contém uma coleção de projetos desenvolvidos em Python, tod
 05. Calculadora IMC: Ferramenta para calcular o Índice de Massa Corporal.
 06. Lista de Tarefas: Aplicativo para organização de tarefas diárias.
 
-Cada projeto está documentado em seu respectivo diretório, sinta-se à vontade para explorar.
+📋 Cada projeto está documentado em seu respectivo diretório, sinta-se à vontade para explorar.
