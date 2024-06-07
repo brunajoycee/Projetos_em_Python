@@ -1,7 +1,7 @@
 # Projetos em Python com Interface Gráfica
 
-✨ Este repositório contém uma coleção de projetos desenvolvidos em Python, todos com interface gráfica. Cada projeto foi criado para oferecer uma experiência de usuário amigável e intuitiva. Abaixo está a lista de projetos incluídos:
-01. Calculadora: Uma calculadora simples e funcional. ✨
+✨ Este repositório contém uma coleção de projetos desenvolvidos em Python, todos com interface gráfica. Cada projeto foi criado para oferecer uma experiência de usuário amigável e intuitiva. Abaixo está a lista de projetos incluídos: ✨
+01. Calculadora: Uma calculadora simples e funcional.
 02. Jogo da Forca: Um clássico jogo da forca.
 03. Agenda Telefônica: Aplicativo para gerenciar contatos telefônicos.
 04. Cronômetro: Um cronômetro preciso para medir o tempo.
